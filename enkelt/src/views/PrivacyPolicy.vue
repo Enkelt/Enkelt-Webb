@@ -19,7 +19,7 @@
                                     <p>Effective date: October 20, 2019</p>
     
     
-                                    <p>Enkelt ("us", "we", or "our") operates the https://enkelt.io website and the Enkelt mobile application (hereinafter referred to as the "Service").</p>
+                                    <p>Enkelt ("us", "we", or "our") operates the https://enkelt.edvard.dev website and the Enkelt mobile application (hereinafter referred to as the "Service").</p>
     
                                     <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Enkelt is based on the <a href="https://privacypolicies.com/blog/privacy-policy-template/">Privacy Policy Template from Privacy Policies</a>.</p>
     
@@ -125,8 +125,8 @@
                                     <h2>Contact Us</h2>
                                     <p>If you have any questions about this Privacy Policy, please contact us:</p>
                                     <ul>
-                                        <li>By email: kontakt@enkelt.io</li>
-                                        <li>By visiting this page on our website: https://enkelt.io/licens.html</li>
+                                        <li>By email: me@edvard.dev</li>
+                                        <li>By visiting this page on our website: https://enkelt.edvard.dev/licens.html</li>
     
                                     </ul>
                                 </div><!--//content-inner-->

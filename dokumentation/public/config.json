@@ -4,21 +4,24 @@
     "navLinks": [
         {
             "title": "Hem",
-            "link": "https://enkelt.io"
+            "link": "https://enkelt.edvard.dev"
         },
         {
             "title": "Redigerare",
-            "link": "https://redigerare.enkelt.io"
+            "link": "https://redigerare.enkelt.edvard.dev"
         },
         {
             "title": "Bibliotek",
-            "link": "https://bibliotek.enkelt.io"
+            "link": "https://bibliotek.enkelt.edvard.dev"
         }
     ],
     "navIcons": [
         {
-            "icon": ["fas", "info"],
-            "link": "https://enkelt.io"
+            "icon": [
+                "fas",
+                "info"
+            ],
+            "link": "https://enkelt.edvard.dev"
         }
     ],
     "searchHint": "Sök...",

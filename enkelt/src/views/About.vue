@@ -24,13 +24,13 @@
                                                 <h3 id="hur-anvands-enkelt">Hur används Enkelt?</h3>
                                                 <p>Enkelt går att använda på två olika sätt:</p>
                                                 <p><strong>1.</strong> Nedladdat: Man kan ladda ner Enkelt som ett Python-skript (enkelt.py) och då körs koden via Terminalen eller Kommandotolken. Läs mer i <a href="/start">snabbstarten</a></p>
-                                                <p><strong>2.</strong> Webbredigeraren: Enkelt har en redigerare som är helt och hållet webb-baserad, det betyder att man inte behöver ladda ner något för att använda den. Gå bara till <a href="https://redigerare.enkelt.io" target="_blank">redigerare.enkelt.io</a> och börja koda direkt!</p>
+                                                <p><strong>2.</strong> Webbredigeraren: Enkelt har en redigerare som är helt och hållet webb-baserad, det betyder att man inte behöver ladda ner något för att använda den. Gå bara till <a href="https://redigerare.enkelt.edvard.dev" target="_blank">redigerare.enkelt.edvard.dev</a> och börja koda direkt!</p>
                                                 <div class="author-profile text-center">
                                                     <a class="center-block" href="/"><img src="../assets/logo.png" alt="Enkelt"></a>
                                                 </div><!--//author-profile-->
                                                 <div class="speech-bubble text-center">
                                                     <h3 class="speech-title">Kom igång med Enkelt</h3>
-                                                    <p>Att börja använda Enkelt är lätt! Börja med att gå till <a href="https://redigerare.enkelt.io" target="_blank">webbredigeraren</a> eller läs <a href="/start">snabbstarten</a> för att komma igång!</p>
+                                                    <p>Att börja använda Enkelt är lätt! Börja med att gå till <a href="https://redigerare.enkelt.edvard.dev" target="_blank">webbredigeraren</a> eller läs <a href="/start">snabbstarten</a> för att komma igång!</p>
                                                 </div>
                                             </div><!--//jumbotron-->
                                         </div><!--//section-block-->

@@ -1,6 +1,6 @@
 /***********************************************************
 * Developer: Edvard Busck-Nielsen (@buscedv)       *
-* Website: https://enkelt.io          *
+* Website: https://enkelt.edvard.dev          *
 * License: MIT License                                     *
 ***********************************************************/
 

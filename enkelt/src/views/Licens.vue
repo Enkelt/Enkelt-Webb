@@ -41,7 +41,7 @@
                                             <ul class="list list-unstyled">
                                                 <li><a href="https://github.com/Enkelt/Enkelt" target="_blank"><em class="fas fa-external-link-square-alt"></em> Enkelt På GitHub</a></li>
                                                 <li><a href="https://github.com/buscedv" target="_blank"><em class="fas fa-external-link-square-alt"></em> Edvard På GitHub</a></li>
-                                                <li><a href="mailto:kontakt@enkelt.io" target="_blank"><em class="fas fa-external-link-square-alt"></em> Email</a></li>
+                                                <li><a href="mailto:me@edvard.dev" target="_blank"><em class="fas fa-external-link-square-alt"></em> Email</a></li>
                                             
                                             </ul>
                                         </div><!--//section-block-->
@@ -49,7 +49,7 @@
                                         <h3>Kontakt</h3>
                                         
                                         <div class="container_form">
-                                            <form action="https://formspree.io/kontakt@enkelt.io" method="POST">
+                                            <form action="https://formspree.io/me@edvard.dev" method="POST">
                                                 <label for="fname">Namn</label>
                                                 <input type="text" id="fname" name="Namn" placeholder="Ditt namn..." required="required">
                                                 

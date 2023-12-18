@@ -65,7 +65,7 @@
                     }
                     document.querySelector('#output').innerHTML = tmp_output.join('');
                 }).catch(function () {
-                    document.querySelector('#output').innerHTML = 'Det inträffade ett fel! Om problemet kvarstår kontakta oss på: https://enkelt.io';
+                    document.querySelector('#output').innerHTML = 'Det inträffade ett fel! Om problemet kvarstår kontakta oss på: https://enkelt.edvard.dev';
                 });
             },
         }

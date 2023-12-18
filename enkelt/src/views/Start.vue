@@ -27,7 +27,7 @@
                                             <a class="btn btn-green" :href="download_link" target="_blank" rel="noopener"> Ladda ner Enkelt</a>
                                             <br>
                                             <br>
-                                            <app-callout title="Kan du inte använda den nedladdade versionen av Enkelt?" type="success" body="Inga problem! Använd <a href='https://redigerare.enkelt.io' target='_blank'>webbredigeraren</a> istället." icon="fas fa-info"></app-callout>
+                                            <app-callout title="Kan du inte använda den nedladdade versionen av Enkelt?" type="success" body="Inga problem! Använd <a href='https://redigerare.enkelt.edvard.dev' target='_blank'>webbredigeraren</a> istället." icon="fas fa-info"></app-callout>
                                         </div>
                                     </section>
                                     <!--//doc-section-->
@@ -178,7 +178,7 @@
         components: {Testa, ScrollToTopBtn, AppFooter, AppFooterImg, AppCallout, AppPageHeader},
         data() {
             return {
-                download_link: 'https://ladda-ner.enkelt.io/#/home?url=https://github.com/Enkelt/Enkelt/tree/master/Enkelt',
+                download_link: 'https://ladda-ner.enkelt.edvard.dev/#/home?url=https://github.com/Enkelt/Enkelt/tree/master/Enkelt',
             }
         },
         mounted() {

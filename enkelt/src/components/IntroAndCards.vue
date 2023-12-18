@@ -15,7 +15,7 @@
                 icon="puzzle_alt"
                 title="Dokumentation"
                 description="Hela språkets kompletta dokumentation."
-                link="https://dokumentation.enkelt.io">
+                link="https://dokumentation.enkelt.edvard.dev">
             </section-card>
     
             <section-card
@@ -31,7 +31,7 @@
                     icon="pencil"
                     title="Webbredigeraren"
                     description="Kör Enkelt-kod i webbläsaren utan att ladda ner något."
-                    link="https://redigerare.enkelt.io">
+                    link="https://redigerare.enkelt.edvard.dev">
             </section-card>
     
             <section-card
@@ -39,7 +39,7 @@
                     icon="archive"
                     title="Bibliotek"
                     description="Utforska och dela bibliotek för Enkelt."
-                    link="https://bibliotek.enkelt.io">
+                    link="https://bibliotek.enkelt.edvard.dev">
             </section-card>
     
             <section-card

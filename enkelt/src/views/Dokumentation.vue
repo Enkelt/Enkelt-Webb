@@ -16,7 +16,7 @@
                             <div class="doc-content col-md-9 col-12 order-1">
                                 <div class="content-inner">
                                     <section>
-                                        <p class="doc-section">Dokumentationen har flyttat till: <a href="https://dokumentation.enkelt.io">dokumentation.enkelt.io</a></p>
+                                        <p class="doc-section">Dokumentationen har flyttat till: <a href="https://dokumentation.enkelt.edvard.dev">dokumentation.enkelt.io</a></p>
                                     </section>
                                     <!--//doc-section-->
                                 </div>
@@ -48,7 +48,7 @@
         },
         mounted() {
             document.title = 'Enkelt - Dokumentation';
-            window.location = 'https://dokumentation.enkelt.io';
+            window.location = 'https://dokumentation.enkelt.edvard.dev';
         }
     }
 </script>

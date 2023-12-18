@@ -1,6 +1,6 @@
 /***********************************************************
 * Developer: Edvard Busck-Nielsen (@buscedv)       *
-* Website: https://enkelt.io          *
+* Website: https://enkelt.edvard.dev          *
 * License: MIT License                                     *
 ***********************************************************/
 
@@ -53,7 +53,7 @@ homeModule.config([
 
                     } else if ($scope.url !== "") {
                         toastr.warning("Oj, något gick fel!", {iconClass: 'toast-down'});
-                        window.location = 'https://enkelt.io'
+                        window.location = 'https://enkelt.edvard.dev'
                     }
 
                     $scope.catchEnter = function(keyEvent) {
@@ -73,7 +73,7 @@ homeModule.config([
                             $scope.downUrl = downloadUrlPrefix + $scope.url;
                         } else {
                             toastr.warning("Oj, något gick fel!", {iconClass: 'toast-down'});
-                            window.location = 'https://enkelt.io'
+                            window.location = 'https://enkelt.edvard.dev'
                         }
                     };
 

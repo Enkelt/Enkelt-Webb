@@ -401,7 +401,7 @@
                                             <div class="direction-l">
                                                 <div class="flag-wrapper">
                                                     <span class="hexa"></span>
-                                                    <span class="flag">Enkelt.io</span>
+                                                    <span class="flag">Enkelt.Edvard.Dev</span>
                                                     <span class="time-wrapper"><span class="time">Aug 11 2019</span></span>
                                                 </div>
                                                 <div class="desc">Domänen enkelt.io registrerades.</div>

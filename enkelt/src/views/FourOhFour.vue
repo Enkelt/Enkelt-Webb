@@ -6,13 +6,13 @@
             </div>
             <h2>404 - Sidan kunde inte hittas</h2>
             <p>Sidan du letar efter kan ha blivit raderad/bytt namn eller så är den för tillfället inte tillgänglig.</p>
-            <a href="https://enkelt.io" class="buttonLink">Hem</a>
-            <a href="https://redigerare.enkelt.io" class="buttonLink">Webbredigeraren</a>
-            <a href="https://bibliotek.enkelt.io" class="buttonLink">Bibliotek</a>
+            <a href="https://enkelt.edvard.dev" class="buttonLink">Hem</a>
+            <a href="https://redigerare.enkelt.edvard.dev" class="buttonLink">Webbredigeraren</a>
+            <a href="https://bibliotek.enkelt.edvard.dev" class="buttonLink">Bibliotek</a>
             <br>
             <br>
             <p>Om du tror att något gått fel kan du kontakta oss:</p>
-            <a href="mailto:kontakt@enkelt.io" class="nonButtonLink">kontakt@enkelt.io</a>
+            <a href="mailto:me@edvard.dev" class="nonButtonLink">me@edvard.dev</a>
         </div>
     </div>
 </template>
