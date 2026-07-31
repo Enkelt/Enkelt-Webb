@@ -40,7 +40,7 @@
                                         <div class="section-block">
                                             <ul class="list list-unstyled">
                                                 <li><a href="https://github.com/Enkelt/Enkelt" target="_blank"><em class="fas fa-external-link-square-alt"></em> Enkelt På GitHub</a></li>
-                                                <li><a href="https://github.com/buscedv" target="_blank"><em class="fas fa-external-link-square-alt"></em> Edvard På GitHub</a></li>
+                                                <li><a href="https://github.com/edda-bn" target="_blank"><em class="fas fa-external-link-square-alt"></em> Edvard På GitHub</a></li>
                                                 <li><a href="mailto:me@edvard.dev" target="_blank"><em class="fas fa-external-link-square-alt"></em> Email</a></li>
                                             
                                             </ul>
