@@ -34,7 +34,7 @@
             return {
                 version: '4.0',
                 project_github_link: 'https://github.com/Enkelt/Enkelt',
-                personal_github_link: 'https://github.com/Buscedv',
+                personal_github_link: 'https://github.com/edda-bn',
             }
         },
     }
